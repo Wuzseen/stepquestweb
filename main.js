@@ -1,17 +1,29 @@
 var http = require('http');
 var url = require('url');
 var FitbitApiClient = require("fitbit-node");
+var express = require('express');
+var app = express();
 
-var fbitCli = new FitbitApiClient("227NJ8","ad6c7dead0c80c08ee245d00cfedf347");
+var routes = require('./routes/index');
+var users = require('./routes/steps');
+var auth = require('./routes/auth');
+var authredirect = require('./routes/authredirect');
 
-var server = http.createServer(
-        function (request, response) {
-        	var path = url.parse(request.url).pathname;
-        	console.log('request received for: ' + path);
-            response.writeHead(200, {"Content-Type": "text/plain"});
-            response.end("Hello World\n");
-        });
+var FitbitApiClient = require("fitbit-node");
+
+var fbitCli = new FitbitApiClient("227NJ8", "ad6c7dead0c80c08ee245d00cfedf347");
+
+exports.fbitCli = fbitCli;
+exports.players = {};
 
 
-server.listen(8000);
-console.log('Server listening on port 8000');
+app.set('view engine', 'jade');
+
+app.use('/', routes);
+app.use('/steps', users);
+app.use('/auth', auth);
+app.use('/authredirect', authredirect);
+
+app.listen(3000, function () {
+  console.log('Example app listening on port 3000!');
+});
