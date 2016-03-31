@@ -9,7 +9,7 @@ router.get('/', function(req, res, next) {
     console.log("Auth redirect received");
     client.getAccessToken(req.query.code, 'http://45.79.160.70:3000/authredirect/').then(function (result) {
         client.get("/profile.json", result.access_token).then(function (results) {
-            res.send(storeNewToken(result));
+            res.render('pid', { 'pid' :  storeNewToken(result) } );
         });
     }).catch(function (error) {
         res.send(error);
