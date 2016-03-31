@@ -17,11 +17,8 @@ router.post('/', function(req, res) {
         var id = req.body.id;
         var tokens = players[id];
         var access = tokens['access_token'];
-        console.log("Got steps request for id: " + id);
         client.get("/activities/date/" + date + ".json", tokens['access_token']).then(function (results) {
-            console.log(results[0]);
             var steps = results[0]['summary']['steps'];
-            console.log(steps);
             res.status(200).send(steps.toString());
         });
 });
