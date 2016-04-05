@@ -16,10 +16,16 @@ router.post('/', function(req, res) {
         var players = main.players;
         var id = req.body.id;
         var tokens = players[id];
-        var access = tokens['access_token'];
-        client.get("/activities/date/" + date + ".json", tokens['access_token']).then(function (results) {
-            var steps = results[0]['summary']['steps'];
-            res.status(200).send(steps.toString());
+        var parseApp = main.parseApp;
+        parseApp.find('_User', { objectId: id}, function(err, response) {
+            if(err != null) {
+                res.send("Error on parse request for tokens: " + err);
+                return;
+            }
+            client.get("/activities/date/" + date + ".json", response['accessToken']).then(function (results) {
+                var steps = results[0]['summary']['steps'];
+                res.status(200).send(steps.toString());
+            });
         });
 });
 
