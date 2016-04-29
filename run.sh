@@ -1,3 +1,7 @@
 #!/bin/bash
 
-node main.js
+echo "Starting Node Server..."
+nohup node main.js &
+echo $! >> serverpid.pid
+echo "Server started."
+cat serverpid.pid
