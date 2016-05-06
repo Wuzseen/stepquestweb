@@ -23,6 +23,7 @@ router.post('/', function(req, res) {
         console.log("Found _Player id for User: " + playerId);
         var findObj = {objectId : playerId};
         parseApp.find('Player', findObj, function(err, response) {
+            var playerObj = response;
             console.log("Player find response received");
             var currentSteps = response['lifetimeSteps'];
             if(!currentSteps) {
@@ -33,8 +34,12 @@ router.post('/', function(req, res) {
                 console.log("Aquiring lifetime for delta: " + newSteps.toString());
                 var delta = newSteps - currentSteps;
                 var updateJSON = { 'lifetimeSteps' : newSteps };
-                parseApp.update('Player', id, updateJSON, function (err, response) {
+                parseApp.update('Player', playerId, updateJSON, function (err, response) {
                     console.log("Step delta: " + delta);
+                    console.log("Parse Player ID " + id + " updated: " + response);
+                    if(err) {
+                        console.log(err);
+                    }
                     res.status(200).send(delta.toString());
                 });
             });
