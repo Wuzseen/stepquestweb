@@ -1,4 +1,0 @@
-StepQuest api listening on port 3000
-Auth redirect received.
-Connected new user via ParseID: wOe3NJQINB
-Updated parse user: [object Object]

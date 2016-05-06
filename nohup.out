@@ -1,4 +1,6 @@
 StepQuest api listening on port 3000
-Getting step delta for user: N6osfJ6NAp
-Found _Player id for User: pfavIPyjzH
-{ objectId: 'pfavIPyjzH' }
+Getting step delta for user: 3uIX08PJ1r
+Found _Player id for User: GViWUTiDJj
+Player find response received
+Aquiring lifetime for delta: 320290
+Step delta: 320290

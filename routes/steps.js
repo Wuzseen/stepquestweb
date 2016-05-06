@@ -19,19 +19,21 @@ router.post('/', function(req, res) {
             return;
         }
         var playerId = response['player'].objectId;
+        var accessToken = response['accessToken'];
         console.log("Found _Player id for User: " + playerId);
         var findObj = {objectId : playerId};
         parseApp.find('Player', findObj, function(err, response) {
+            console.log("Player find response received");
             var currentSteps = response['lifetimeSteps'];
             if(!currentSteps) {
                 currentSteps = 0;
             }
-            client.get("/activities.json", response['accessToken']).then(function (results) {
+            client.get("/activities.json", accessToken).then(function (results) {
                 var newSteps = results[0]['lifetime']['total']['steps'];
                 console.log("Aquiring lifetime for delta: " + newSteps.toString());
                 var delta = newSteps - currentSteps;
                 var updateJSON = { 'lifetimeSteps' : newSteps };
-                parseApp.update('_User', id, updateJSON, function (err, response) {
+                parseApp.update('Player', id, updateJSON, function (err, response) {
                     console.log("Step delta: " + delta);
                     res.status(200).send(delta.toString());
                 });
