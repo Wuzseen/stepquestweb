@@ -19,31 +19,41 @@ router.post('/', function(req, res) {
             return;
         }
         var playerId = response['player'].objectId;
+        var refreshToken = response['refreshToken'];
         var accessToken = response['accessToken'];
-        console.log("Found _Player id for User: " + playerId);
-        var findObj = {objectId : playerId};
-        parseApp.find('Player', findObj, function(err, response) {
-            var playerObj = response;
-            console.log("Player find response received");
-            var currentSteps = response['lifetimeSteps'];
-            if(!currentSteps) {
-                currentSteps = 0;
-            }
-            client.get("/activities.json", accessToken).then(function (results) {
-                var newSteps = results[0]['lifetime']['total']['steps'];
-                console.log("Aquiring lifetime for delta: " + newSteps.toString());
-                var delta = newSteps - currentSteps;
-                var updateJSON = { 'lifetimeSteps' : newSteps };
-                parseApp.update('Player', playerId, updateJSON, function (err, response) {
-                    console.log("Step delta: " + delta);
-                    console.log("Parse Player ID " + id + " updated: " + response);
-                    if(err) {
-                        console.log(err);
-                    }
-                    res.status(200).send(delta.toString());
-                });
-            });
-        });
+        console.log("Refreshing access token: " + refreshToken);
+        client.refreshAccesstoken(accessToken, refreshToken).then(function (results) {
+            console.log("Refresh results: %j", results);
+            accessToken = results['access_token'];
+            refreshToken = results['refresh_token'];
+            console.log("Found _Player id for User: " + playerId);
+            var findObj = {objectId : playerId};
+            parseApp.find('Player', findObj, function(err, response) {
+                var playerObj = response;
+                console.log("Player find response received");
+                var currentSteps = response['lifetimeSteps'];
+                if(!currentSteps) {
+                    currentSteps = 0;
+                }
+                client.get("/activities.json", accessToken).then(function (results) {
+                    var newSteps = results[0]['lifetime']['total']['steps'];
+                    console.log("Aquiring lifetime for delta: " + newSteps.toString());
+                    var delta = newSteps - currentSteps;
+                    var updateJSON = { 'lifetimeSteps' : newSteps };
+                    parseApp.update('Player', playerId, updateJSON, function (err, response) {
+                        console.log("Step delta: " + delta);
+                        console.log("Parse Player ID " + id + " updated: " + response);
+                        if(err) {
+                            console.log(err);
+                        }
+                        parseApp.update('_User', id, {'refreshToken' : refreshToken , 'accessToken' : accessToken }, function (err, response) {
+                            console.log("Updated user with refresh & access tokens");
+                            res.status(200).send(delta.toString());
+                        }); // end user update
+                    }); // end update parse object
+                }); // end get lifetime
+            }); // end find parse player
+        }); // end refresh
     });
 });
 

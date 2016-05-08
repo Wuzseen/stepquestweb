@@ -1,7 +1,33 @@
 StepQuest api listening on port 3000
-Getting step delta for user: POT2VEYX9i
-Found _Player id for User: ez4Nvw3enK
+Getting step delta for user: 8g0ZB0YM5n
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: 8g0ZB0YM5n
+Updated parse user: [object Object]
+Getting step delta for user: 8g0ZB0YM5n
+Refreshing access token: f1d347d93962c25d9c5fc1a9cfe234071ee82d596a93cb2d2ce9fb2d261271d4
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODQ5MTcsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODEzMTd9.STvekbo_clnD7OzsKn365hR_-E6O570Y5V3aedvf4m4","expires_in":3600,"refresh_token":"2fb375216b2602fdc8f4082bc10ecc1965840d5fb998c378ed9ce6326c9c7517","scope":"social heartrate profile weight nutrition settings location activity sleep","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:21:57.453Z"}
+Found _Player id for User: gOWoBWsAlL
 Player find response received
-Aquiring lifetime for delta: 326872
-Step delta: 326872
-Parse Player ID POT2VEYX9i updated: [object Object]
+Aquiring lifetime for delta: 353141
+Step delta: 353141
+Parse Player ID 8g0ZB0YM5n updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: 8g0ZB0YM5n
+Refreshing access token: 2fb375216b2602fdc8f4082bc10ecc1965840d5fb998c378ed9ce6326c9c7517
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODQ5NDUsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODEzNDV9.dldOEqoDdmdpWLscg_j_tbAmx8L0cph-TqfBecF6YNk","expires_in":3600,"refresh_token":"8d9f50a3fd8fbb66ad9ee99196ee69e5ee3e017ecdc28a989eb6d22aa48e7428","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:22:25.734Z"}
+Found _Player id for User: gOWoBWsAlL
+Player find response received
+Aquiring lifetime for delta: 353141
+Step delta: 0
+Parse Player ID 8g0ZB0YM5n updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: 8g0ZB0YM5n
+Refreshing access token: 8d9f50a3fd8fbb66ad9ee99196ee69e5ee3e017ecdc28a989eb6d22aa48e7428
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODQ5NTQsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODEzNTR9.NsGOg-p0CETZzcZhPNbQBrCxQ3-1gNlIBGvgxm_NWog","expires_in":3600,"refresh_token":"8cbe4fa04491c36544369def8655fe8cc30e26a9013bac8410b295391db53934","scope":"nutrition social location sleep settings weight activity heartrate profile","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:22:34.104Z"}
+Found _Player id for User: gOWoBWsAlL
+Player find response received
+Aquiring lifetime for delta: 353141
+Step delta: 0
+Parse Player ID 8g0ZB0YM5n updated: [object Object]
+Updated user with refresh & access tokens
