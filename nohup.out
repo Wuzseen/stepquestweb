@@ -31,3 +31,391 @@ Aquiring lifetime for delta: 353141
 Step delta: 0
 Parse Player ID 8g0ZB0YM5n updated: [object Object]
 Updated user with refresh & access tokens
+Getting step delta for user: TZ5NfFBaip
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: TZ5NfFBaip
+Updated parse user: [object Object]
+Getting step delta for user: TZ5NfFBaip
+Refreshing access token: d4c8a5a84dfdf950301740e6d04686191129efc6b7eadc98f6b2704e5f59f9ef
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODU1MTgsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODE5MTh9.plRD7w0or7VgIey-XsE_6esVGu71OtWtRmwIEEc9BeU","expires_in":3600,"refresh_token":"dc82e00edda3d9074fe9a96179c63dc5e02339f06f60af4fbac4916190e7dc72","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:31:58.332Z"}
+Found _Player id for User: FSTz6zHYxs
+Player find response received
+Aquiring lifetime for delta: 353141
+Step delta: 353141
+Parse Player ID TZ5NfFBaip updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: TZ5NfFBaip
+Refreshing access token: dc82e00edda3d9074fe9a96179c63dc5e02339f06f60af4fbac4916190e7dc72
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODU2NzgsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODIwNzh9.v0d2ucADEAkDogrjFYS1-GoQfbZmfdrVpdKSp7s0L0Q","expires_in":3600,"refresh_token":"cbe584d7b3995f47f5ff1f68a49b4625723d437cc9c6530a9a7297339a800177","scope":"sleep activity nutrition weight heartrate location settings profile social","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:34:39.009Z"}
+Found _Player id for User: FSTz6zHYxs
+Player find response received
+Aquiring lifetime for delta: 353141
+Step delta: 0
+Parse Player ID TZ5NfFBaip updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: TZ5NfFBaip
+Refreshing access token: cbe584d7b3995f47f5ff1f68a49b4625723d437cc9c6530a9a7297339a800177
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODU3NjksInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODIxNjl9.ewtnyu5kYTTmqcIHy0keeL4JORkuOkDgkClnqgQqBgg","expires_in":3600,"refresh_token":"7333e6275f917c1e6d8277b6425a6634d0bef98cdc5beea05066172ee33d46e0","scope":"sleep activity nutrition weight heartrate location settings profile social","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:36:09.464Z"}
+Found _Player id for User: FSTz6zHYxs
+Player find response received
+Aquiring lifetime for delta: 353141
+Step delta: 0
+Parse Player ID TZ5NfFBaip updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: TZ5NfFBaip
+Refreshing access token: 7333e6275f917c1e6d8277b6425a6634d0bef98cdc5beea05066172ee33d46e0
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODU4NDMsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODIyNDN9.n0JbDIZLzeZgByVqA8Ia18bqGCdW8yKmFE2I3Fu-TjY","expires_in":3600,"refresh_token":"f7ce0562f642aa76d67de1f38dc6969a43828f0ba69f8176bb895a18d4aab50d","scope":"profile settings sleep social heartrate activity weight location nutrition","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:37:23.440Z"}
+Found _Player id for User: FSTz6zHYxs
+Player find response received
+Aquiring lifetime for delta: 353141
+Step delta: 0
+Parse Player ID TZ5NfFBaip updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: TZ5NfFBaip
+Refreshing access token: f7ce0562f642aa76d67de1f38dc6969a43828f0ba69f8176bb895a18d4aab50d
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODYwOTAsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODI0OTB9.RrDW_5ahgk4Gy0opTWghyAUKx_zKz-0otKlfbwcoGBU","expires_in":3600,"refresh_token":"7ee97ce2dfdf5a673e57a25e16d09fedc59f3262b637370ee98e4c932bbc4326","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:41:30.959Z"}
+Found _Player id for User: FSTz6zHYxs
+Player find response received
+Aquiring lifetime for delta: 353216
+Step delta: 75
+Parse Player ID TZ5NfFBaip updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: ED80IvWY9H
+Updated parse user: [object Object]
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: bcae6b97506d77bb581bc0d42dce4dbd9fc916d80acf863c1596d297703941e1
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODYxNDksInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODI1NDl9.9AFlgLhHHWBRTby1Apv-wt5iyyduLfdT-htqZkFJb4c","expires_in":3600,"refresh_token":"b634162b7fdd4516d5e6a91d9e94a6711133e3a9fdd3ee0ffeda3394e089b21d","scope":"sleep activity nutrition weight heartrate location settings profile social","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:42:29.661Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 353216
+Step delta: 353216
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: b634162b7fdd4516d5e6a91d9e94a6711133e3a9fdd3ee0ffeda3394e089b21d
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODYxNzMsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODI1NzN9.MK4oMT_OO4uavwIuB8YYxxECJ2dVcEncf56cPFthzEc","expires_in":3600,"refresh_token":"d186b838adb45b3035a68516de5712493434b33644e3b7a871ef1fb9a714e205","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:42:53.877Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 353216
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: d186b838adb45b3035a68516de5712493434b33644e3b7a871ef1fb9a714e205
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODYyMzgsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODI2Mzh9.G6BHb62J_koSjTJQK_RZA2ZxrEUgF4qU5pAXpnZ5BVI","expires_in":3600,"refresh_token":"8706dce58723ed987efcac970e87ec4236d8e411cbd74aaf19ad65e1246713ca","scope":"sleep activity nutrition weight heartrate location settings profile social","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:43:58.439Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 353216
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: 8706dce58723ed987efcac970e87ec4236d8e411cbd74aaf19ad65e1246713ca
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI2ODYyODEsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI2ODI2ODF9.h9MZ23hsjS9-8zPnTnDcAT4_CSTsRJhaOwWw3mIS9mc","expires_in":3600,"refresh_token":"b8ec06053311f989136d369956baa7db082a7f4208d5c12d042ab973341ce643","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T05:44:41.904Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 353216
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: b8ec06053311f989136d369956baa7db082a7f4208d5c12d042ab973341ce643
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDMwMzMsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3Mzk0MzN9._sQ1eYHiTUi6m7g56v71Ny3yymQzLIbH8rhBbBNI9Uo","expires_in":3600,"refresh_token":"646e8df7e06b97013c86ff52f295362ddb2ca2eff6b2c6a6bd3c2971ef625fd7","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:30:33.616Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 2887
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: JIY6mY7kxq
+Updated parse user: [object Object]
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: 60195c4b5d00d4a2f4794a74ec073d671597de366b2deca7ee99a87b348e7ff1
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDMxMjAsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3Mzk1MjB9.ebDWV6ZApfhZ3E9AOvwpBtv2V08EBEpS9wT70yHRKYg","expires_in":3600,"refresh_token":"2df43a41261ab77d55bc9f17d0b6c7df0f59e306d318186a96b842ae9a512a72","scope":"nutrition social location sleep settings weight activity heartrate profile","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:32:00.445Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 588000
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: 2df43a41261ab77d55bc9f17d0b6c7df0f59e306d318186a96b842ae9a512a72
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDMxNzIsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3Mzk1NzJ9.i2GxCS2acPr8AReGS-JmufRd0uy9ipWXH_Hyapd6v-0","expires_in":3600,"refresh_token":"15fac083cccbb86c66a200d1b3e7304311dbd45afb369ca84300bcab1ffae42e","scope":"sleep activity nutrition weight heartrate location settings profile social","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:32:52.329Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: 646e8df7e06b97013c86ff52f295362ddb2ca2eff6b2c6a6bd3c2971ef625fd7
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDMyMDcsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3Mzk2MDd9.BsswytQ-p1ijBlqM_BAbXNI9afkP0Wz2_rXvuUYo8fE","expires_in":3600,"refresh_token":"5b2c657fb133d94ef098b446f4f5ebab4e871879a7c743562aae95f304f5ab8b","scope":"location activity profile social settings sleep nutrition weight heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:33:27.986Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: 5b2c657fb133d94ef098b446f4f5ebab4e871879a7c743562aae95f304f5ab8b
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDMzMjQsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3Mzk3MjR9.2DQKZBYt1UWmU15p_5Ykd5i80G2AJUZgMPua47VoB3M","expires_in":3600,"refresh_token":"ce6c57665e75cb27e74ebdb5f7ffac22aa7717c0294e1f4fa4981ab38d1e4699","scope":"weight settings sleep social heartrate profile nutrition location activity","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:35:24.708Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: ce6c57665e75cb27e74ebdb5f7ffac22aa7717c0294e1f4fa4981ab38d1e4699
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDMzNjcsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3Mzk3Njd9.0PDuMtVn6WX8qPELXELko4rQKeKqNcZj7M6yqW6Qjk8","expires_in":3600,"refresh_token":"53bcce099ab17f436cd8211accbda76631b1f449a9463efe9bcc374b52baa868","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:36:07.248Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: 15fac083cccbb86c66a200d1b3e7304311dbd45afb369ca84300bcab1ffae42e
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM2MDIsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAwMDJ9.tUpiqZ66C7nrYgHpEGum2oWqLyKXpG5UMjN42ung4Y0","expires_in":3600,"refresh_token":"ab5a3c8bab565d8c92d4458c6f41a7bfee65a313fbdd569091192a8097db0818","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:40:02.240Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: ED80IvWY9H
+Refreshing access token: 53bcce099ab17f436cd8211accbda76631b1f449a9463efe9bcc374b52baa868
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM2NjYsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAwNjZ9.EXGyQjCdA3oDRucoaYg2WWcLTX0w3RusuhwtK-l1bWc","expires_in":3600,"refresh_token":"e1ace68f1492ad2adbff83deb5ddb147dcc4284f83bff19e2070da7c1bc23b69","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:41:06.131Z"}
+Found _Player id for User: rW9AujU9JW
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID ED80IvWY9H updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: GpxIEsmBHV
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: GpxIEsmBHV
+Updated parse user: [object Object]
+Getting step delta for user: GpxIEsmBHV
+Refreshing access token: 545ab7aa664ea39cefc1b9c638bb576227acb0e00cfaa986b1061e0bcae8fc13
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM3MDQsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAxMDR9.XwK570y82msZxOm5S4z-72rN-xAVyYVwRf7uS1RNs2M","expires_in":3600,"refresh_token":"5cf660f602b163f16c781b0e19e45e01dba1e8088d81946ded5d70515ef3bacd","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:41:44.109Z"}
+Found _Player id for User: HmgqGNPcqq
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 356103
+Parse Player ID GpxIEsmBHV updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: ab5a3c8bab565d8c92d4458c6f41a7bfee65a313fbdd569091192a8097db0818
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM3NjgsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAxNjh9.s2mPS93lDVRm9uPE3dspZRNaxMwTCXlobCOQNuEYAjM","expires_in":3600,"refresh_token":"1a3e0df9fad24ca98cb2e646bc153e4988f006a3c70daf930dba7c51f43d93e1","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:42:48.523Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Getting step delta for user: JIY6mY7kxq
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Refreshing access token: ab5a3c8bab565d8c92d4458c6f41a7bfee65a313fbdd569091192a8097db0818
+Updated user with refresh & access tokens
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM3NjgsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAxNjh9.s2mPS93lDVRm9uPE3dspZRNaxMwTCXlobCOQNuEYAjM","expires_in":3600,"refresh_token":"1a3e0df9fad24ca98cb2e646bc153e4988f006a3c70daf930dba7c51f43d93e1","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:42:49.457Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: GpxIEsmBHV
+Refreshing access token: 5cf660f602b163f16c781b0e19e45e01dba1e8088d81946ded5d70515ef3bacd
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM4MTMsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAyMTN9.xKfi-20WGslZTrxBu3ex5yblK8ZY3WC38-nfLdyo0Ek","expires_in":3600,"refresh_token":"9914b0feb9bc971848476e29e466038a1747cd1cb0bbac3c8cdf10a758c141ac","scope":"location heartrate weight profile settings activity nutrition sleep social","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:43:33.756Z"}
+Found _Player id for User: HmgqGNPcqq
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID GpxIEsmBHV updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: 1a3e0df9fad24ca98cb2e646bc153e4988f006a3c70daf930dba7c51f43d93e1
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM4NDEsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAyNDF9.Xl2s7XYpspqGoeGHWzIS2J7p7tkSodBijQfRKPemNB4","expires_in":3600,"refresh_token":"691c99f9f51ae51ef25c68f9cef7570f9c856c3f35eaa06a961db6e7379fc9da","scope":"nutrition social location sleep settings weight activity heartrate profile","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:44:01.646Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: GpxIEsmBHV
+Refreshing access token: 9914b0feb9bc971848476e29e466038a1747cd1cb0bbac3c8cdf10a758c141ac
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDM4NTcsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDAyNTd9.y7LP0wfsSqr5p5sXC5-k5Qw9NPt3Q26zVkPZE8Af4_c","expires_in":3600,"refresh_token":"b2a2858c8979b45fba768893aaa252b839df250c850a9d0a89b1944c07a708c4","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:44:17.112Z"}
+Found _Player id for User: HmgqGNPcqq
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID GpxIEsmBHV updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: GpxIEsmBHV
+Refreshing access token: b2a2858c8979b45fba768893aaa252b839df250c850a9d0a89b1944c07a708c4
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQxNjMsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDA1NjN9.RWTm0ePnR_mfiZS-6uIhbnPDwCIN9SykdJ3Q6PcZ460","expires_in":3600,"refresh_token":"2176656563bf1568c8437a5c9b9e2b02f23040664bea8c28041726b8d8df68a9","scope":"social heartrate profile weight nutrition settings location activity sleep","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:49:23.120Z"}
+Found _Player id for User: HmgqGNPcqq
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID GpxIEsmBHV updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: GpxIEsmBHV
+Refreshing access token: 2176656563bf1568c8437a5c9b9e2b02f23040664bea8c28041726b8d8df68a9
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQyMTYsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDA2MTZ9.__OuBBs6tqQcsVmf-vcWc6KSbyFVNaACr6UZCpiokm0","expires_in":3600,"refresh_token":"454df7446c51503580e8bb0ba27f5885af1da724f87b6a4847c97365d4651d2a","scope":"sleep activity weight social nutrition heartrate settings profile location","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:50:16.634Z"}
+Found _Player id for User: HmgqGNPcqq
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID GpxIEsmBHV updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: Jx323INDcX
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: Jx323INDcX
+Updated parse user: [object Object]
+Getting step delta for user: Jx323INDcX
+Refreshing access token: 78313050b6bba49be9f0079342c31f82aaf724395e06a1d33d16a45a2125e104
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQzMDYsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDA3MDZ9.Iln3qhSGQQI8qoAwi9nvVqsnZoQIzVfTJR9QURfhKkU","expires_in":3600,"refresh_token":"667af9611b30869aa186d8ecb7cb22bc840a295f4557082c7b45665118c9b844","scope":"social heartrate activity sleep profile weight settings location nutrition","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:51:46.801Z"}
+Found _Player id for User: HGrAm9yrkm
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 356103
+Parse Player ID Jx323INDcX updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: Jx323INDcX
+Refreshing access token: 667af9611b30869aa186d8ecb7cb22bc840a295f4557082c7b45665118c9b844
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQ1NDcsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDA5NDd9.XSIvuirw1jLFxs4RX3BYJbgP7I7uUwuQTsMvjMUg1JA","expires_in":3600,"refresh_token":"bada033b6573f7d25af8003eb8f8ba2405052b5863d44e4135998eb83f7f2198","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:55:47.409Z"}
+Found _Player id for User: HGrAm9yrkm
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID Jx323INDcX updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: 691c99f9f51ae51ef25c68f9cef7570f9c856c3f35eaa06a961db6e7379fc9da
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQ1OTIsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDA5OTJ9.g1Km0sfn6QpCEP1eoEnYnXAcq1FGuSXiA6xw-eye6CM","expires_in":3600,"refresh_token":"df0794bf9a0e0d43d409c8a4a4c430cb22efb0ac84b1006d8537b9d0f41794ad","scope":"nutrition social location sleep settings weight activity heartrate profile","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T21:56:33.003Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: cThnxK9szd
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: cThnxK9szd
+Updated parse user: [object Object]
+Getting step delta for user: cThnxK9szd
+Refreshing access token: 464461be1972dddf1889d6ea55121a25ee6cb6951fc02fc67ff764a77cf90224
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQ2MDEsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDEwMDF9.oFv7_zwxCaT5dZfuhgzjCIum9f0I4wAsKjZ3B2QtITc","expires_in":3600,"refresh_token":"008405a9cdfb9e1f7e12cb6ad582a99b590b2f0ec64e42a0069137e48d59d9ba","scope":"nutrition social location sleep settings weight activity heartrate profile","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T21:56:41.540Z"}
+Found _Player id for User: sJA3Y7S0or
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 356103
+Parse Player ID cThnxK9szd updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: cThnxK9szd
+Refreshing access token: 008405a9cdfb9e1f7e12cb6ad582a99b590b2f0ec64e42a0069137e48d59d9ba
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDQ5MTYsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDEzMTZ9.PZfdZ1lNdHu-iLgyGepoBjPrmjifJ3msCZ395m3Wkyg","expires_in":3600,"refresh_token":"039137cda2652dc526b652ad99cfbb6d00491368e20e3879bbe600f8abbaeb9c","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:01:56.805Z"}
+Found _Player id for User: sJA3Y7S0or
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID cThnxK9szd updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: pULj9Um9yE
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: pULj9Um9yE
+Updated parse user: [object Object]
+Getting step delta for user: pULj9Um9yE
+Refreshing access token: bdae2a29e1dd87c9330db6b89f17226b383886fa3719deb215ca7cb028f773b7
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDUxMTEsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDE1MTF9.hqmm7glPT7jXllZZoFUVL6Od5TqX-TrSWY7XoPZ0Xi0","expires_in":3600,"refresh_token":"dd6e9520d4c5409e661a7b4e8528cf5ce646cf7259e32ec77c085d5e305f1e58","scope":"weight nutrition location heartrate activity settings sleep social profile","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:05:11.765Z"}
+Found _Player id for User: CMKAXuq2CU
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 356103
+Parse Player ID pULj9Um9yE updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: JIY6mY7kxq
+Refreshing access token: df0794bf9a0e0d43d409c8a4a4c430cb22efb0ac84b1006d8537b9d0f41794ad
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDUyMDAsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiIzOTNGOUoiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDE2MDB9.6iqmelE45xu0e63vMDwYEcfQ8H1FRHrf1w3FIpg75Rg","expires_in":3600,"refresh_token":"ac1f86455c6b61566d5dd7b13496c0fee9ed4bed8ee323f28d950a57519c103b","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"393F9J","expires_at":"2016-05-08T22:06:40.441Z"}
+Found _Player id for User: SzY4A7VN6D
+Player find response received
+Aquiring lifetime for delta: 588000
+Step delta: 0
+Parse Player ID JIY6mY7kxq updated: [object Object]
+Updated user with refresh & access tokens
+Auth redirect received.
+Getting step delta for user: pULj9Um9yE
+Refreshing access token: dd6e9520d4c5409e661a7b4e8528cf5ce646cf7259e32ec77c085d5e305f1e58
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDU0MjUsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDE4MjV9.FFi4ZqvrpDcLxNXQ-eZcdsVps4wkdOV0npAqWPUHn8E","expires_in":3600,"refresh_token":"e93eae78770ee9bb1a1af2d4264c7b79766f9fe26ebdf2dc0b5d42411a8e79aa","scope":"weight settings sleep social heartrate profile nutrition location activity","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:10:25.407Z"}
+Found _Player id for User: CMKAXuq2CU
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID pULj9Um9yE updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: pULj9Um9yE
+Refreshing access token: e93eae78770ee9bb1a1af2d4264c7b79766f9fe26ebdf2dc0b5d42411a8e79aa
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDU0MzUsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDE4MzV9.dXE0HlZKLeKxL8i2vpBuY4um-sMCsNDtansWqAvwwhY","expires_in":3600,"refresh_token":"614087756ced9ea25d15d0ea571ca43a2ef1d5818395e3b9d3111a57e0849571","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:10:35.785Z"}
+Found _Player id for User: CMKAXuq2CU
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID pULj9Um9yE updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: pULj9Um9yE
+Refreshing access token: 614087756ced9ea25d15d0ea571ca43a2ef1d5818395e3b9d3111a57e0849571
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDU0NzcsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByYWN0IHJzb2MiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDE4Nzd9.Z-kSj5Obrg-EzkAXlrqamn0d9dqxreyP9zZjhnXbOf8","expires_in":3600,"refresh_token":"06aaf75f15d6d3f4e378b287f2ac79c4b248487e8918a4df54a0b87aa29eb310","scope":"nutrition social sleep location profile activity heartrate settings weight","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:11:17.522Z"}
+Found _Player id for User: CMKAXuq2CU
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID pULj9Um9yE updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: PsjmSNlait
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: PsjmSNlait
+Updated parse user: [object Object]
+Getting step delta for user: PsjmSNlait
+Refreshing access token: 024b045221e7b3b8fff36bc765c50d47120fd108af65dacacd6f39340e8b9bdd
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDU1NDksInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDE5NDl9.FoIZ_vpm55dQ2H5qOIanHPDwUhvvwYTS8UG1BGkngpE","expires_in":3600,"refresh_token":"b3f9cf8e69782d69ea183c63b99d54de3a5e5ce78360a6d0c020af12bf23228f","scope":"activity weight social settings location profile nutrition sleep heartrate","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:12:29.887Z"}
+Found _Player id for User: kDYbEHXORL
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 356103
+Parse Player ID PsjmSNlait updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: HzA82KAZYS
+Refreshing access token: undefined
+Auth redirect received.
+Connected new user via ParseID: HzA82KAZYS
+Updated parse user: [object Object]
+Getting step delta for user: HzA82KAZYS
+Refreshing access token: 0392f5a9759c1d5ca68db1a826e92263d859da9f72d69b16177fbd633e4c6f55
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDU3NDIsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDIxNDJ9.fst10q5dFGsqfCB6AoO8R6etgitUr_TSHtYtIMudIB8","expires_in":3600,"refresh_token":"12ade71c0376106b7f52be073e8792020f949050a5dfc438e34f459822e21fc6","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:15:42.924Z"}
+Found _Player id for User: Y4vBcll9tJ
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 356103
+Parse Player ID HzA82KAZYS updated: [object Object]
+Updated user with refresh & access tokens
+Getting step delta for user: HzA82KAZYS
+Refreshing access token: 12ade71c0376106b7f52be073e8792020f949050a5dfc438e34f459822e21fc6
+Refresh results: {"access_token":"eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NjI3NDU5NDQsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcmxvYyBybnV0IHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0Q1ZITEMiLCJhdWQiOiIyMjdOSjgiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NjI3NDIzNDR9.lrQeBaOvLkyRSVMoSdobwpMLdHWjM6jXElBC8FUBue4","expires_in":3600,"refresh_token":"80ed84785540ebfbdf8d74912bdb8a0294beb92bbc3eb0a4b6358877a8bb1226","scope":"settings nutrition heartrate profile activity sleep social weight location","token_type":"Bearer","user_id":"4CVHLC","expires_at":"2016-05-08T22:19:04.086Z"}
+Found _Player id for User: Y4vBcll9tJ
+Player find response received
+Aquiring lifetime for delta: 356103
+Step delta: 0
+Parse Player ID HzA82KAZYS updated: [object Object]
+Updated user with refresh & access tokens
